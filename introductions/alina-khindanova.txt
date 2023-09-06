@@ -1,0 +1,1 @@
+Hi! My name is Alina Khindanova. I am mostly interested in applied microeconomics. I usually use R and Stata to work with data and run econometric models, but I am eager to learn Python tools
